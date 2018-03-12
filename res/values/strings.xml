@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, City_cnActivity!</string>
+    <string name="app_name">安能快递</string>
+	<string name="please">请输入称重(KG)</string>
+    <string name="left_bracket">(</string>
+    <string name="right_bracket">)</string>
+    <string name="divisor">÷</string>
+    <string name="seven">7</string>
+    <string name="eight">8</string>
+    <string name="nine">9</string>
+    <string name="four">4</string>
+	<string name="five">5</string>
+	<string name="six">6</string>
+	<string name="point">.</string>
+	<string name="one">1</string>
+	<string name="two">2</string>
+	<string name="three">3</string>
+	<string name="clear">C</string>
+	<string name="zero">0</string>
+	<string name="calc">计算总价</string>
+	<string name="price">总价</string>
+</resources>
