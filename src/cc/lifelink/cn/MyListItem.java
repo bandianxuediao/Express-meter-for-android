@@ -5,7 +5,7 @@ public class MyListItem {
 	private String pcode;
 	public String getName(){
 		return name;
-	}
+	} 
 	public String getPcode(){
 		return pcode;
 	}
